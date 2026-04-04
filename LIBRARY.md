@@ -3,7 +3,7 @@
 ## Repositories
 
 <!-- KB_INDEX_REPOS_START -->
-- `tailwindcss-mirror` - tailwindcss mirror for ChatGPT sessions ([repo](https://github.com/ChatGPT-KB/tailwindcss-mirror), [map](REPO_MAPS/tailwindcss-mirror.md))
+- `daisyui-mirror` - daisyui mirror for ChatGPT sessions ([repo](https://github.com/ChatGPT-KB/daisyui-mirror), [map](REPO_MAPS/daisyui-mirror.md))
 
 ## How to use in ChatGPT
 - Ask repo-specific questions when possible.
