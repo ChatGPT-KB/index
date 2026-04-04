@@ -3,7 +3,7 @@
 ## Repositories
 
 <!-- KB_INDEX_REPOS_START -->
-- `codex-mirror` - codex mirror for ChatGPT sessions ([repo](https://github.com/ChatGPT-KB/codex-mirror), [map](REPO_MAPS/codex-mirror.md))
+- `kit-mirror` - kit mirror for ChatGPT sessions ([repo](https://github.com/ChatGPT-KB/kit-mirror), [map](REPO_MAPS/kit-mirror.md))
 
 ## How to use in ChatGPT
 - Ask repo-specific questions when possible.
