@@ -3,7 +3,7 @@
 ## Repositories
 
 <!-- KB_INDEX_REPOS_START -->
-- `oh-my-codex-mirror` - oh-my-codex mirror for ChatGPT sessions ([repo](https://github.com/ChatGPT-KB/oh-my-codex-mirror), [map](REPO_MAPS/oh-my-codex-mirror.md))
+- `t3code-mirror` - t3code mirror for ChatGPT sessions ([repo](https://github.com/ChatGPT-KB/t3code-mirror), [map](REPO_MAPS/t3code-mirror.md))
 
 ## How to use in ChatGPT
 - Ask repo-specific questions when possible.
