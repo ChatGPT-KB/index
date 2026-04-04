@@ -3,7 +3,7 @@
 ## Repositories
 
 <!-- KB_INDEX_REPOS_START -->
-- `pi-mono-mirror` - pi-mono mirror for ChatGPT sessions ([repo](https://github.com/ChatGPT-KB/pi-mono-mirror), [map](REPO_MAPS/pi-mono-mirror.md))
+- `oh-my-openagent-mirror` - oh-my-openagent mirror for ChatGPT sessions ([repo](https://github.com/ChatGPT-KB/oh-my-openagent-mirror), [map](REPO_MAPS/oh-my-openagent-mirror.md))
 
 ## How to use in ChatGPT
 - Ask repo-specific questions when possible.
