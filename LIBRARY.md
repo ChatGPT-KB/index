@@ -3,7 +3,7 @@
 ## Repositories
 
 <!-- KB_INDEX_REPOS_START -->
-- `svelte-mirror` - svelte mirror for ChatGPT sessions ([repo](https://github.com/ChatGPT-KB/svelte-mirror), [map](REPO_MAPS/svelte-mirror.md))
+- `opencode-mirror` - opencode mirror for ChatGPT sessions ([repo](https://github.com/ChatGPT-KB/opencode-mirror), [map](REPO_MAPS/opencode-mirror.md))
 
 ## How to use in ChatGPT
 - Ask repo-specific questions when possible.
