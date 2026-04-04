@@ -3,7 +3,7 @@
 ## Repositories
 
 <!-- KB_INDEX_REPOS_START -->
-- `oh-my-openagent-mirror` - oh-my-openagent mirror for ChatGPT sessions ([repo](https://github.com/ChatGPT-KB/oh-my-openagent-mirror), [map](REPO_MAPS/oh-my-openagent-mirror.md))
+- `oh-my-codex-mirror` - oh-my-codex mirror for ChatGPT sessions ([repo](https://github.com/ChatGPT-KB/oh-my-codex-mirror), [map](REPO_MAPS/oh-my-codex-mirror.md))
 
 ## How to use in ChatGPT
 - Ask repo-specific questions when possible.
