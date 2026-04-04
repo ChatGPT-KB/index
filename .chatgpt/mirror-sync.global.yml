@@ -1,0 +1,7 @@
+defaults:
+  timezone: UTC
+  enabled: true
+  cadence: "0 3 * * *"
+  workflow_file: sync-upstream.yml
+  branch: main
+  max_dispatch_per_run: 50

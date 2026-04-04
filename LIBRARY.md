@@ -3,7 +3,7 @@
 ## Repositories
 
 <!-- KB_INDEX_REPOS_START -->
-- `t1code-mirror` - t1code mirror for ChatGPT sessions ([repo](https://github.com/ChatGPT-KB/t1code-mirror), [map](REPO_MAPS/t1code-mirror.md))
+- `OpenSpec-mirror` - OpenSpec mirror for ChatGPT sessions ([repo](https://github.com/ChatGPT-KB/OpenSpec-mirror), [map](REPO_MAPS/OpenSpec-mirror.md))
 
 ## How to use in ChatGPT
 - Ask repo-specific questions when possible.

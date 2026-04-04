@@ -1,0 +1,114 @@
+name: Dispatch mirror sync
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/15 * * * *"
+
+concurrency:
+  group: kb-mirror-controller
+  cancel-in-progress: false
+
+permissions:
+  contents: read
+
+jobs:
+  dispatch:
+    runs-on: ubuntu-latest
+    env:
+      ORG: ChatGPT-KB
+      GH_TOKEN: ${{ secrets.KB_ORG_DISPATCH_TOKEN }}
+    steps:
+      - name: Check out index repository
+        uses: actions/checkout@v5
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Install evaluator dependencies
+        shell: bash
+        run: |
+          set -euo pipefail
+          python -m pip install --upgrade pip
+          pip install pyyaml croniter
+
+      - name: Evaluate due mirrors
+        id: evaluate
+        shell: bash
+        run: |
+          set -euo pipefail
+          python scripts/evaluate_mirror_schedule.py             --global-config .chatgpt/mirror-sync.global.yml             --mirrors-config .chatgpt/mirror-sync.mirrors.yml             --org "$ORG" > due.json
+
+          due_count="$(python - <<'PY'
+import json
+from pathlib import Path
+
+data = json.loads(Path('due.json').read_text(encoding='utf-8'))
+print(len(data.get('due', [])))
+PY
+)"
+          echo "due_count=$due_count" >> "$GITHUB_OUTPUT"
+
+      - name: Dispatch mirror workflows
+        if: steps.evaluate.outputs.due_count != '0'
+        shell: bash
+        run: |
+          set -euo pipefail
+          python - <<'PY'
+import json
+import subprocess
+from pathlib import Path
+
+data = json.loads(Path('due.json').read_text(encoding='utf-8'))
+failed = []
+
+for item in data.get('due', []):
+    repo = f"{item['org']}/{item['repo']}"
+    cmd = [
+        'gh',
+        'workflow',
+        'run',
+        item['workflow_file'],
+        '--repo',
+        repo,
+        '--ref',
+        item['branch'],
+    ]
+    result = subprocess.run(cmd, capture_output=True, text=True)
+    if result.returncode != 0:
+        failed.append({'repo': repo, 'stderr': result.stderr.strip()})
+
+if failed:
+    print('Failed dispatches:')
+    for failed_item in failed:
+        print(f"- {failed_item['repo']}: {failed_item['stderr']}")
+    raise SystemExit(1)
+PY
+
+      - name: Write summary
+        if: always()
+        shell: bash
+        run: |
+          set -euo pipefail
+          python - <<'PY'
+import json
+import os
+from pathlib import Path
+
+summary_path = Path(os.environ['GITHUB_STEP_SUMMARY'])
+data = json.loads(Path('due.json').read_text(encoding='utf-8'))
+due = data.get('due', [])
+skipped = data.get('skipped', [])
+
+with summary_path.open('a', encoding='utf-8') as f:
+    f.write('## Mirror dispatch summary\n\n')
+    f.write(f"Generated at: {data.get('generated_at_utc', 'n/a')}\n\n")
+    f.write(f"Due mirrors: {len(due)}\n")
+    if due:
+        f.write('\n')
+        for item in due:
+            f.write(f"- {item['org']}/{item['repo']} ({item['cadence']} {item['timezone']})\n")
+    f.write(f"\nSkipped entries: {len(skipped)}\n")
+PY
