@@ -3,7 +3,7 @@
 ## Repositories
 
 <!-- KB_INDEX_REPOS_START -->
-- `mastra-mirror` - mastra mirror for ChatGPT sessions ([repo](https://github.com/ChatGPT-KB/mastra-mirror), [map](REPO_MAPS/mastra-mirror.md))
+- `hermes-agent-mirror` - hermes-agent mirror for ChatGPT sessions ([repo](https://github.com/ChatGPT-KB/hermes-agent-mirror), [map](REPO_MAPS/hermes-agent-mirror.md))
 
 ## How to use in ChatGPT
 - Ask repo-specific questions when possible.
