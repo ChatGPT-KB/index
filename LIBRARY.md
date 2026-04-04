@@ -3,7 +3,7 @@
 ## Repositories
 
 <!-- KB_INDEX_REPOS_START -->
-- `daisyui-mirror` - daisyui mirror for ChatGPT sessions ([repo](https://github.com/ChatGPT-KB/daisyui-mirror), [map](REPO_MAPS/daisyui-mirror.md))
+- `t1code-mirror` - t1code mirror for ChatGPT sessions ([repo](https://github.com/ChatGPT-KB/t1code-mirror), [map](REPO_MAPS/t1code-mirror.md))
 
 ## How to use in ChatGPT
 - Ask repo-specific questions when possible.
