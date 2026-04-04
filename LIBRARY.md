@@ -3,7 +3,7 @@
 ## Repositories
 
 <!-- KB_INDEX_REPOS_START -->
-- `kit-mirror` - kit mirror for ChatGPT sessions ([repo](https://github.com/ChatGPT-KB/kit-mirror), [map](REPO_MAPS/kit-mirror.md))
+- `beads-mirror` - beads mirror for ChatGPT sessions ([repo](https://github.com/ChatGPT-KB/beads-mirror), [map](REPO_MAPS/beads-mirror.md))
 
 ## How to use in ChatGPT
 - Ask repo-specific questions when possible.
