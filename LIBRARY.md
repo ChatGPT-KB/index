@@ -3,7 +3,7 @@
 ## Repositories
 
 <!-- KB_INDEX_REPOS_START -->
-- `claw-code-mirror` - claw-code mirror for ChatGPT sessions ([repo](https://github.com/ChatGPT-KB/claw-code-mirror), [map](REPO_MAPS/claw-code-mirror.md))
+- `mastra-mirror` - mastra mirror for ChatGPT sessions ([repo](https://github.com/ChatGPT-KB/mastra-mirror), [map](REPO_MAPS/mastra-mirror.md))
 
 ## How to use in ChatGPT
 - Ask repo-specific questions when possible.
