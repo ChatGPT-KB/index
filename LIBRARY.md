@@ -3,7 +3,7 @@
 ## Repositories
 
 <!-- KB_INDEX_REPOS_START -->
-- `hermes-agent-mirror` - hermes-agent mirror for ChatGPT sessions ([repo](https://github.com/ChatGPT-KB/hermes-agent-mirror), [map](REPO_MAPS/hermes-agent-mirror.md))
+- `pi-mono-mirror` - pi-mono mirror for ChatGPT sessions ([repo](https://github.com/ChatGPT-KB/pi-mono-mirror), [map](REPO_MAPS/pi-mono-mirror.md))
 
 ## How to use in ChatGPT
 - Ask repo-specific questions when possible.
