@@ -3,7 +3,7 @@
 ## Repositories
 
 <!-- KB_INDEX_REPOS_START -->
-- `beads-mirror` - beads mirror for ChatGPT sessions ([repo](https://github.com/ChatGPT-KB/beads-mirror), [map](REPO_MAPS/beads-mirror.md))
+- `tailwindcss-mirror` - tailwindcss mirror for ChatGPT sessions ([repo](https://github.com/ChatGPT-KB/tailwindcss-mirror), [map](REPO_MAPS/tailwindcss-mirror.md))
 
 ## How to use in ChatGPT
 - Ask repo-specific questions when possible.
