@@ -3,7 +3,7 @@
 ## Repositories
 
 <!-- KB_INDEX_REPOS_START -->
-- `rlm-mirror` - rlm mirror for ChatGPT sessions ([repo](https://github.com/ChatGPT-KB/rlm-mirror), [map](REPO_MAPS/rlm-mirror.md))
+- `firecrawl-mirror` - firecrawl mirror for ChatGPT sessions ([repo](https://github.com/ChatGPT-KB/firecrawl-mirror), [map](REPO_MAPS/firecrawl-mirror.md))
 
 ## How to use in ChatGPT
 - Ask repo-specific questions when possible.
