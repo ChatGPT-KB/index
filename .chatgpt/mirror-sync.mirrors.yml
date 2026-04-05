@@ -5,3 +5,33 @@ mirrors:
     enabled: true
   opensrc-mirror:
     enabled: true
+  beads-mirror:
+    enabled: true
+  claw-code-mirror:
+    enabled: true
+  codex-mirror:
+    enabled: true
+  daisyui-mirror:
+    enabled: true
+  hermes-agent-mirror:
+    enabled: true
+  kit-mirror:
+    enabled: true
+  mastra-mirror:
+    enabled: true
+  oh-my-codex-mirror:
+    enabled: true
+  oh-my-openagent-mirror:
+    enabled: true
+  opencode-mirror:
+    enabled: true
+  pi-mono-mirror:
+    enabled: true
+  svelte-mirror:
+    enabled: true
+  t1code-mirror:
+    enabled: true
+  t3code-mirror:
+    enabled: true
+  tailwindcss-mirror:
+    enabled: true
