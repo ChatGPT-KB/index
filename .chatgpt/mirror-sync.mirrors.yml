@@ -41,3 +41,5 @@ mirrors:
     enabled: true
   crawl4ai-mirror:
     enabled: true
+  neovim-mirror:
+    enabled: true

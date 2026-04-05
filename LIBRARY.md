@@ -3,7 +3,7 @@
 ## Repositories
 
 <!-- KB_INDEX_REPOS_START -->
-- `crawl4ai-mirror` - crawl4ai mirror for ChatGPT sessions ([repo](https://github.com/ChatGPT-KB/crawl4ai-mirror), [map](REPO_MAPS/crawl4ai-mirror.md))
+- `neovim-mirror` - neovim mirror for ChatGPT sessions ([repo](https://github.com/ChatGPT-KB/neovim-mirror), [map](REPO_MAPS/neovim-mirror.md))
 
 ## How to use in ChatGPT
 - Ask repo-specific questions when possible.
