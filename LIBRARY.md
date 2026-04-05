@@ -3,7 +3,7 @@
 ## Repositories
 
 <!-- KB_INDEX_REPOS_START -->
-- `opensrc-mirror` - opensrc mirror for ChatGPT sessions ([repo](https://github.com/ChatGPT-KB/opensrc-mirror), [map](REPO_MAPS/opensrc-mirror.md))
+- `rlm-mirror` - rlm mirror for ChatGPT sessions ([repo](https://github.com/ChatGPT-KB/rlm-mirror), [map](REPO_MAPS/rlm-mirror.md))
 
 ## How to use in ChatGPT
 - Ask repo-specific questions when possible.
