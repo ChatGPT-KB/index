@@ -1,3 +1,5 @@
 mirrors:
   OpenSpec-mirror:
     enabled: true
+  spec-kit-mirror:
+    enabled: true
