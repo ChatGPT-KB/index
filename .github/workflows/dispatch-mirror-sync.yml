@@ -27,8 +27,13 @@ jobs:
         with:
           python-version: "3.14"
 
-      - name: Set up uv
-        uses: astral-sh/setup-uv@v6
+      - name: Install uv (latest)
+        shell: bash
+        run: |
+          set -euo pipefail
+          curl -LsSf https://astral.sh/uv/install.sh | sh
+          echo "$HOME/.local/bin" >> "$GITHUB_PATH"
+          "$HOME/.local/bin/uv" --version
 
       - name: Evaluate due mirrors
         id: evaluate

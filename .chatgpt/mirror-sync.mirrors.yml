@@ -3,3 +3,5 @@ mirrors:
     enabled: true
   spec-kit-mirror:
     enabled: true
+  opensrc-mirror:
+    enabled: true

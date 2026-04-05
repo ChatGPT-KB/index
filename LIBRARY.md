@@ -3,7 +3,7 @@
 ## Repositories
 
 <!-- KB_INDEX_REPOS_START -->
-- `spec-kit-mirror` - spec-kit mirror for ChatGPT sessions ([repo](https://github.com/ChatGPT-KB/spec-kit-mirror), [map](REPO_MAPS/spec-kit-mirror.md))
+- `opensrc-mirror` - opensrc mirror for ChatGPT sessions ([repo](https://github.com/ChatGPT-KB/opensrc-mirror), [map](REPO_MAPS/opensrc-mirror.md))
 
 ## How to use in ChatGPT
 - Ask repo-specific questions when possible.
