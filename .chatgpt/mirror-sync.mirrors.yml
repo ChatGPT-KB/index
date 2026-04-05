@@ -39,3 +39,5 @@ mirrors:
     enabled: true
   firecrawl-mirror:
     enabled: true
+  crawl4ai-mirror:
+    enabled: true

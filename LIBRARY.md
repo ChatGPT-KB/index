@@ -3,7 +3,7 @@
 ## Repositories
 
 <!-- KB_INDEX_REPOS_START -->
-- `firecrawl-mirror` - firecrawl mirror for ChatGPT sessions ([repo](https://github.com/ChatGPT-KB/firecrawl-mirror), [map](REPO_MAPS/firecrawl-mirror.md))
+- `crawl4ai-mirror` - crawl4ai mirror for ChatGPT sessions ([repo](https://github.com/ChatGPT-KB/crawl4ai-mirror), [map](REPO_MAPS/crawl4ai-mirror.md))
 
 ## How to use in ChatGPT
 - Ask repo-specific questions when possible.
