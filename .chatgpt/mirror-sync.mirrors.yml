@@ -6,32 +6,32 @@ mirrors:
   opensrc-mirror:
     enabled: true
   beads-mirror:
-    enabled: true
+    enabled: false
   claw-code-mirror:
-    enabled: true
+    enabled: false
   codex-mirror:
-    enabled: true
+    enabled: false
   daisyui-mirror:
-    enabled: true
+    enabled: false
   hermes-agent-mirror:
-    enabled: true
+    enabled: false
   kit-mirror:
-    enabled: true
+    enabled: false
   mastra-mirror:
-    enabled: true
+    enabled: false
   oh-my-codex-mirror:
-    enabled: true
+    enabled: false
   oh-my-openagent-mirror:
-    enabled: true
+    enabled: false
   opencode-mirror:
-    enabled: true
+    enabled: false
   pi-mono-mirror:
-    enabled: true
+    enabled: false
   svelte-mirror:
-    enabled: true
+    enabled: false
   t1code-mirror:
-    enabled: true
+    enabled: false
   t3code-mirror:
-    enabled: true
+    enabled: false
   tailwindcss-mirror:
-    enabled: true
+    enabled: false
