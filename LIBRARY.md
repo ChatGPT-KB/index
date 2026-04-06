@@ -3,7 +3,7 @@
 ## Repositories
 
 <!-- KB_INDEX_REPOS_START -->
-- `neovim-mirror` - neovim mirror for ChatGPT sessions ([repo](https://github.com/ChatGPT-KB/neovim-mirror), [map](REPO_MAPS/neovim-mirror.md))
+- `dolt-mirror` - dolt mirror for ChatGPT sessions ([repo](https://github.com/ChatGPT-KB/dolt-mirror), [map](REPO_MAPS/dolt-mirror.md))
 
 ## How to use in ChatGPT
 - Ask repo-specific questions when possible.
