@@ -45,3 +45,5 @@ mirrors:
     enabled: true
   dolt-mirror:
     enabled: true
+  libsql-mirror:
+    enabled: true
