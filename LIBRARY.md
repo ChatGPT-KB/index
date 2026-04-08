@@ -3,7 +3,7 @@
 ## Repositories
 
 <!-- KB_INDEX_REPOS_START -->
-- `libsql-mirror` - libsql mirror for ChatGPT sessions ([repo](https://github.com/ChatGPT-KB/libsql-mirror), [map](REPO_MAPS/libsql-mirror.md))
+- `lalph-mirror` - lalph mirror for ChatGPT sessions ([repo](https://github.com/ChatGPT-KB/lalph-mirror), [map](REPO_MAPS/lalph-mirror.md))
 
 ## How to use in ChatGPT
 - Ask repo-specific questions when possible.

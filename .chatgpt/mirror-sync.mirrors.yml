@@ -47,3 +47,5 @@ mirrors:
     enabled: true
   libsql-mirror:
     enabled: true
+  lalph-mirror:
+    enabled: true
