@@ -53,3 +53,5 @@ mirrors:
     enabled: true
   ralph-claude-code-mirror:
     enabled: true
+  ralphy-mirror:
+    enabled: true
