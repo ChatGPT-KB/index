@@ -57,3 +57,5 @@ mirrors:
     enabled: true
   ralph-orchestrator-mirror:
     enabled: true
+  caveman-mirror:
+    enabled: true
