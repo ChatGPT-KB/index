@@ -49,3 +49,5 @@ mirrors:
     enabled: true
   lalph-mirror:
     enabled: true
+  ralph-mirror:
+    enabled: true

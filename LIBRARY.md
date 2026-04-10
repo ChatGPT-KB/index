@@ -3,7 +3,7 @@
 ## Repositories
 
 <!-- KB_INDEX_REPOS_START -->
-- `lalph-mirror` - lalph mirror for ChatGPT sessions ([repo](https://github.com/ChatGPT-KB/lalph-mirror), [map](REPO_MAPS/lalph-mirror.md))
+- `ralph-mirror` - ralph mirror for ChatGPT sessions ([repo](https://github.com/ChatGPT-KB/ralph-mirror), [map](REPO_MAPS/ralph-mirror.md))
 
 ## How to use in ChatGPT
 - Ask repo-specific questions when possible.
