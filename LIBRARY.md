@@ -3,7 +3,7 @@
 ## Repositories
 
 <!-- KB_INDEX_REPOS_START -->
-- `ralph-mirror` - ralph mirror for ChatGPT sessions ([repo](https://github.com/ChatGPT-KB/ralph-mirror), [map](REPO_MAPS/ralph-mirror.md))
+- `ralph-claude-code-mirror` - ralph-claude-code mirror for ChatGPT sessions ([repo](https://github.com/ChatGPT-KB/ralph-claude-code-mirror), [map](REPO_MAPS/ralph-claude-code-mirror.md))
 
 ## How to use in ChatGPT
 - Ask repo-specific questions when possible.
