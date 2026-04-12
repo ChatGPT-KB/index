@@ -61,3 +61,5 @@ mirrors:
     enabled: true
   Archon-mirror:
     enabled: true
+  autoresearch-mirror:
+    enabled: true

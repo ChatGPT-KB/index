@@ -3,7 +3,7 @@
 ## Repositories
 
 <!-- KB_INDEX_REPOS_START -->
-- `Archon-mirror` - Archon mirror for ChatGPT sessions ([repo](https://github.com/ChatGPT-KB/Archon-mirror), [map](REPO_MAPS/Archon-mirror.md))
+- `autoresearch-mirror` - autoresearch mirror for ChatGPT sessions ([repo](https://github.com/ChatGPT-KB/autoresearch-mirror), [map](REPO_MAPS/autoresearch-mirror.md))
 
 ## How to use in ChatGPT
 - Ask repo-specific questions when possible.
