@@ -59,3 +59,5 @@ mirrors:
     enabled: true
   caveman-mirror:
     enabled: true
+  Archon-mirror:
+    enabled: true

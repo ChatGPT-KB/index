@@ -3,7 +3,7 @@
 ## Repositories
 
 <!-- KB_INDEX_REPOS_START -->
-- `caveman-mirror` - caveman mirror for ChatGPT sessions ([repo](https://github.com/ChatGPT-KB/caveman-mirror), [map](REPO_MAPS/caveman-mirror.md))
+- `Archon-mirror` - Archon mirror for ChatGPT sessions ([repo](https://github.com/ChatGPT-KB/Archon-mirror), [map](REPO_MAPS/Archon-mirror.md))
 
 ## How to use in ChatGPT
 - Ask repo-specific questions when possible.
