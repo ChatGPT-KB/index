@@ -63,3 +63,5 @@ mirrors:
     enabled: true
   autoresearch-mirror:
     enabled: true
+  gastown-mirror:
+    enabled: true

@@ -3,7 +3,7 @@
 ## Repositories
 
 <!-- KB_INDEX_REPOS_START -->
-- `autoresearch-mirror` - autoresearch mirror for ChatGPT sessions ([repo](https://github.com/ChatGPT-KB/autoresearch-mirror), [map](REPO_MAPS/autoresearch-mirror.md))
+- `gastown-mirror` - gastown mirror for ChatGPT sessions ([repo](https://github.com/ChatGPT-KB/gastown-mirror), [map](REPO_MAPS/gastown-mirror.md))
 
 ## How to use in ChatGPT
 - Ask repo-specific questions when possible.
