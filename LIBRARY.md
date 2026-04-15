@@ -3,7 +3,7 @@
 ## Repositories
 
 <!-- KB_INDEX_REPOS_START -->
-- `cxdb-mirror` - cxdb mirror for ChatGPT sessions ([repo](https://github.com/ChatGPT-KB/cxdb-mirror), [map](REPO_MAPS/cxdb-mirror.md))
+- `leash-mirror` - leash mirror for ChatGPT sessions ([repo](https://github.com/ChatGPT-KB/leash-mirror), [map](REPO_MAPS/leash-mirror.md))
 
 ## How to use in ChatGPT
 - Ask repo-specific questions when possible.

@@ -71,3 +71,5 @@ mirrors:
     enabled: true
   cxdb-mirror:
     enabled: true
+  leash-mirror:
+    enabled: true
