@@ -3,7 +3,7 @@
 ## Repositories
 
 <!-- KB_INDEX_REPOS_START -->
-- `leash-mirror` - leash mirror for ChatGPT sessions ([repo](https://github.com/ChatGPT-KB/leash-mirror), [map](REPO_MAPS/leash-mirror.md))
+- `OpenViking-mirror` - OpenViking mirror for ChatGPT sessions ([repo](https://github.com/ChatGPT-KB/OpenViking-mirror), [map](REPO_MAPS/OpenViking-mirror.md))
 
 ## How to use in ChatGPT
 - Ask repo-specific questions when possible.

@@ -73,3 +73,5 @@ mirrors:
     enabled: true
   leash-mirror:
     enabled: true
+  OpenViking-mirror:
+    enabled: true
