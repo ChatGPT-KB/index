@@ -3,7 +3,7 @@
 ## Repositories
 
 <!-- KB_INDEX_REPOS_START -->
-- `attractor-mirror` - attractor mirror for ChatGPT sessions ([repo](https://github.com/ChatGPT-KB/attractor-mirror), [map](REPO_MAPS/attractor-mirror.md))
+- `cxdb-mirror` - cxdb mirror for ChatGPT sessions ([repo](https://github.com/ChatGPT-KB/cxdb-mirror), [map](REPO_MAPS/cxdb-mirror.md))
 
 ## How to use in ChatGPT
 - Ask repo-specific questions when possible.

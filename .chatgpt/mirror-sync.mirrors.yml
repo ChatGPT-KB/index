@@ -69,3 +69,5 @@ mirrors:
     enabled: true
   attractor-mirror:
     enabled: true
+  cxdb-mirror:
+    enabled: true
