@@ -3,7 +3,7 @@
 ## Repositories
 
 <!-- KB_INDEX_REPOS_START -->
-- `supermemory-mirror` - supermemory mirror for ChatGPT sessions ([repo](https://github.com/ChatGPT-KB/supermemory-mirror), [map](REPO_MAPS/supermemory-mirror.md))
+- `mem0-mirror` - mem0 mirror for ChatGPT sessions ([repo](https://github.com/ChatGPT-KB/mem0-mirror), [map](REPO_MAPS/mem0-mirror.md))
 
 ## How to use in ChatGPT
 - Ask repo-specific questions when possible.
