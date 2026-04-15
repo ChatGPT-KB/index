@@ -3,7 +3,7 @@
 ## Repositories
 
 <!-- KB_INDEX_REPOS_START -->
-- `openclaw-mirror` - openclaw mirror for ChatGPT sessions ([repo](https://github.com/ChatGPT-KB/openclaw-mirror), [map](REPO_MAPS/openclaw-mirror.md))
+- `attractor-mirror` - attractor mirror for ChatGPT sessions ([repo](https://github.com/ChatGPT-KB/attractor-mirror), [map](REPO_MAPS/attractor-mirror.md))
 
 ## How to use in ChatGPT
 - Ask repo-specific questions when possible.

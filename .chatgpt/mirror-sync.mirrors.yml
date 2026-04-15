@@ -67,3 +67,5 @@ mirrors:
     enabled: true
   openclaw-mirror:
     enabled: true
+  attractor-mirror:
+    enabled: true
