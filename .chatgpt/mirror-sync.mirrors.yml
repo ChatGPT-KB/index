@@ -75,3 +75,5 @@ mirrors:
     enabled: true
   OpenViking-mirror:
     enabled: true
+  supermemory-mirror:
+    enabled: true

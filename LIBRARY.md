@@ -3,7 +3,7 @@
 ## Repositories
 
 <!-- KB_INDEX_REPOS_START -->
-- `OpenViking-mirror` - OpenViking mirror for ChatGPT sessions ([repo](https://github.com/ChatGPT-KB/OpenViking-mirror), [map](REPO_MAPS/OpenViking-mirror.md))
+- `supermemory-mirror` - supermemory mirror for ChatGPT sessions ([repo](https://github.com/ChatGPT-KB/supermemory-mirror), [map](REPO_MAPS/supermemory-mirror.md))
 
 ## How to use in ChatGPT
 - Ask repo-specific questions when possible.
