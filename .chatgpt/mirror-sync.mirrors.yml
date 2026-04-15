@@ -65,3 +65,5 @@ mirrors:
     enabled: true
   gastown-mirror:
     enabled: true
+  openclaw-mirror:
+    enabled: true
